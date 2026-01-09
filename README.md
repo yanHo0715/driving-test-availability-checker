@@ -2,9 +2,8 @@
 
 A small desktop tool that automatically monitors DVSA driving test cancellations, alerts you when availability changes, and runs quietly in the background.
 
-**Personal use only.**
-
-DVSA actively blocks excessive automation. Use responsibly and at your own risk.
+**Personal use only.
+DVSA actively blocks excessive automation. Use responsibly and at your own risk.**
 
 ## Purpose
 Built to solve a real personal problem and explore how AI tools can support development and automation.
